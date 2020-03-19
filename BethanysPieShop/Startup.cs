@@ -39,6 +39,16 @@ namespace BethanysPieShop
             services.AddControllersWithViews();//services.AddMvc(); would also work still
             services.AddRazorPages();
 
+            services.AddAuthentication()
+                     .AddGoogle(options =>
+                     {
+                      //   IConfigurationSection googleAuthNSection =
+                       //      Configuration.GetConnectionString("Authentication:Google");
+
+                         options.ClientId = "577604066493-6ogqapoatidpm2hbqe73iglrpchj9guq.apps.googleusercontent.com";
+                         options.ClientSecret = "6pFJn19W9lgqfXDCnrOJrF41";
+                     });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

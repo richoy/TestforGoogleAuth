@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "grXQjep3wLoYa2pUh0QASBEIRIjHCAXEXzHlArbBZSCYQJAUqlGByKQCXYi/TBiLmhvyht8x5sO2F0BCtVROLQ==",
+  "dgSpecHash": "88UggcEEbLrIybJuMqOt2Q6m27HV1q+t+wdSVNqkY5mbmHDr/T4fmDkilmvtvajejvB5dsca/W6ZOXMrZ6SeXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\rchoy\\Downloads\\building-aspdotnet-core-mvc-web-applications\\06\\demos\\ASP.NET Core 3.0\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rchoy\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.0.3\\microsoft.aspnetcore.authentication.google.3.0.3.nupkg.sha512",
     "C:\\Users\\rchoy\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.2\\microsoft.aspnetcore.cryptography.internal.3.1.2.nupkg.sha512",
     "C:\\Users\\rchoy\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.2\\microsoft.aspnetcore.cryptography.keyderivation.3.1.2.nupkg.sha512",
     "C:\\Users\\rchoy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
